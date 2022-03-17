@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": true,
+        "noEmit": true,
+        "downlevelIteration": true,
+        "forceConsistentCasingInFileNames": true,
+        "jsx": "react",
+        "lib": ["ES2020"],
+        "moduleResolution": "Node",
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitAny": true,
+        "useUnknownInCatchVariables": false,
+        "alwaysStrict": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": false,
+        "pretty": true,
+        "skipLibCheck": true,
+        "sourceMap": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "module": "CommonJS",
+        "target": "es2020",
+        "typeRoots": ["node_modules/@types", "src/@types"]
+    },
+    "exclude": ["./node_modules"]
+}
