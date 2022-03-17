@@ -1,0 +1,24 @@
+{
+  "name": "tsinterview",
+  "version": "0.0.1",
+  "description": "Deeply broken, highly judgemental and requires attention... such is the nature of this test. Well, maybe not so judgemental, but it's funny to say.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript",
+    "TS",
+    "Axios",
+    "Readability",
+    "Refactoring",
+    "Fix",
+    "Library",
+    "Understanding"
+  ],
+  "author": "OneCart Team",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
